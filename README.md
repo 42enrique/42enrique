@@ -1,6 +1,10 @@
 ### Hola! I'm Enrique 👋
 
-I am a junior at The University of British Columbia.
+I am a junior at The University of British Columbia. I love learning about new technologies and applying them for social good. Here are a few things about me: 
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
 <!--
 **42enrique/42enrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
