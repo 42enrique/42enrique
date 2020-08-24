@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola! I'm Enrique 👋
 
+I am a junior at The University of British Columbia.
 <!--
 **42enrique/42enrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
