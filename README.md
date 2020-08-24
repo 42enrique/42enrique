@@ -2,8 +2,11 @@
 
 I am a junior at The University of British Columbia. I love learning about new technologies and applying them for social good. Here are a few things about me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🧬 My major: Biomedical Engineering
+- 💼 My latest internship: SWE + PM @ Microsoft Azure
+- 💻 My favourite programming language: Java
+
+
 
 <!--
 **42enrique/42enrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
