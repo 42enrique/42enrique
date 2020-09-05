@@ -2,9 +2,9 @@
 
 I am a junior at The University of British Columbia. I love learning about new technologies and applying them for social good. Here are a few things about me: 
 
-- 🧬 My major: Biomedical Engineering
-- 💼 My latest internship: SWE + PM @ Microsoft Azure
-- 💻 My favourite programming language: Java
+- 🧬  My major: Biomedical Engineering
+- 💼  My latest internship: SWE + PM @ Microsoft Azure
+- 💻  My favourite programming language: Java
 
 
 
