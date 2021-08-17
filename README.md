@@ -1,9 +1,9 @@
 ### Hola! I'm Enrique 👋
 
-I am a junior at The University of British Columbia. I love learning about new technologies and applying them for social good. Here are a few things about me: 
+I am a senior at The University of British Columbia. I'm interested in tech & engineering, venture capital, and public health.
 
 - 🧬  My major: Biomedical Engineering
-- 💼  My latest internship: SWE + PM @ Microsoft Azure
+- 💼  My latest gig: Engineering @ Pair Team
 - 💻  My favourite programming language: Java
 
 
