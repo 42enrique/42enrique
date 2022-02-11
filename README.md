@@ -2,9 +2,10 @@
 
 I am a senior at The University of British Columbia. I'm interested in tech & engineering, venture capital, and public health.
 
-- 🧬  My major: Biomedical Engineering
-- 💼  My latest gig: Engineering @ Pair Team
-- 💻  My favourite programming language: Java
+- 🧬  Currently building: Pair Team (YC S19)
+- 💻  Previously at: Microsoft Azure, LinkedIn Media Infra
+- 💼  Incoming: Google (Summer 2022)
+
 
 
 
