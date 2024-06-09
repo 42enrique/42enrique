@@ -1,10 +1,6 @@
-### Hola! I'm Enrique 👋
+### heyoooo 👋
 
-I am a senior at The University of British Columbia. I'm interested in tech & engineering, venture capital, and public health.
-
-- 🧬  Currently building: Pair Team (YC S19)
-- 💻  Previously at: Microsoft Azure, LinkedIn Media Infra
-- 💼  Incoming: Google (Summer 2022)
+tell em to bring out the whole ocean 
 
 
 
